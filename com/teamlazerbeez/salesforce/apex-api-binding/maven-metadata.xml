@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.teamlazerbeez.salesforce</groupId>
+  <artifactId>apex-api-binding</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130416222437</lastUpdated>
+  </versioning>
+</metadata>
